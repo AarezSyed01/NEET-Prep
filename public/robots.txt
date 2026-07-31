@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Exclude private settings page from being crawled
+Disallow: /settings
+
+# Sitemaps
+Sitemap: https://neetprep-ai.web.app/sitemap.xml

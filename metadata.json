@@ -1,0 +1,6 @@
+{
+  "name": "NEET Prep",
+  "description": "Comprehensive offline-first NEET preparation platform with analytics, practice tests, and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
